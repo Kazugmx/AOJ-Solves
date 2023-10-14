@@ -1,3 +1,5 @@
+package JOI;
+
 import java.util.Scanner;
 import java.util.stream.Stream;
 
