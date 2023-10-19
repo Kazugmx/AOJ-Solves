@@ -3,7 +3,7 @@ package JOI;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-public class JOIPremlim_0688 {
+public class JOIPrelim_0688 {
     static Scanner sc = new Scanner(System.in);
     public static void main(String... args){
         int[] in = Stream.of(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
