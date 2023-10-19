@@ -3,7 +3,7 @@ package JOI;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-public class JOIPremlim_0689 {
+public class JOIPrelim_0689 {
     public static void main(String... args){
         Scanner sc = new Scanner(System.in);
         String N = sc.nextLine();
